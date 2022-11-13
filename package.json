@@ -25,5 +25,9 @@
     "jsdom": "^18.1.0",
     "mocha": "^9.2.2",
     "mocha-multi": "^1.1.5"
+  },
+  "dependencies": {
+    "bundler": "^0.8.0",
+    "gem": "^2.4.3"
   }
 }
